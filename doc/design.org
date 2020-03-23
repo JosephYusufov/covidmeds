@@ -1,0 +1,9 @@
+* Sitemap
+- index.html
+  - <medication>.html
+    - FDA COVID-19 Approval Status
+    - Generic Name
+    - Brand Name
+    - Company 
+    - Source of Information
+    - Learn More (link)
